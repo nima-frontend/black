@@ -10,4 +10,4 @@ b476-a88e984abefe.jpg)
 - Technologies Used - Html , css
 - Hooks Used : useState 
 - Role - Frontend
-- How to reach me : with my [linkedin](https://www.linkedin.com/in/nima-pourda
+- How to reach me : with my [linkedin](https://linkedin.com/in/nima-pourdad-b2a5bb331)
